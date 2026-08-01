@@ -9,7 +9,7 @@
 ### Основы
 
 - [Навигация по странице](docs/01-navigation.md)
-- [Работа со ссылками](docs/02-links.md)
+- [Работа со ссылками](docs/02-page.md)
 - [Работа с URL](docs/03-url.md)
 - [Поиск на странице](docs/04-find.md)
 
@@ -39,7 +39,7 @@
 ├── README.md
 ├── docs/
 │   ├── 01-navigation.md
-│   ├── 02-links.md
+│   ├── 02-page.md
 │   ├── 03-url.md
 │   ├── 04-find.md
 │   ├── 05-tabs.md
