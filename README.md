@@ -18,12 +18,14 @@
 - [Вкладки](docs/05-tabs.md)
 - [История](docs/06-history.md)
 - [Масштаб страницы](docs/07-zoom.md)
+- [Работа с закладками](docs/08-bookmarks.md)
+- [Метки (Marks)](docs/09-marks.md)
 
 ### Vimium
 
 - [Vomnibar](docs/08-vomnibar.md)
 - [Режимы работы](docs/09-modes.md)
-- [Метки (Marks)](docs/10-marks.md)
+
 
 
 ### Шпаргалка
